@@ -37,10 +37,3 @@
   duration: 2020
   url: "https://lvkhomyakova.github.io/gem-puzzle/"
   description: Training project (demo). Сlassic tag game
-# Others
-  project: VirtualKeyboard
-  url: "https://lvkhomyakova.github.io/VirtualKeyboard/dist/"
-  project: Singolo
-  url: "https://lvkhomyakova.github.io/singolo/"
-  project: Anatomy
-  url: "https://github.com/LVKhomyakova/lvkhomyakova.github.io"
