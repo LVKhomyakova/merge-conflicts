@@ -1,16 +1,46 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
-
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# English puzzle
+- project: English puzzle
+  role: developer
+  duration: 2020
+  url: "https://lvkhomyakova-english-puzzle.netlify.app/"
+  description: Training project (demo): Learning English &mdash; Click on words, collect phrases. Words can be drag and drop. Select tooltips in the menu.
+# Fancy weather
+- project: Fancy weather
+  role: developer
+  duration: 2020
+  url: "https://lvkhomyakova-fancy-weather.netlify.app/"
+  description: Training project (demo): Weather forecast search service anywhere in the world.
+# Movie search
+- project: Movie search
+  role: developer
+  duration: 2020
+  url: "https://lvkhomyakova-movie-search.netlify.app/"
+  description: Training project (demo): Single-page application that displays information about the films. The OMDb RESTful API is used to retrieve information.
+# Speak It
+- project: Speak It
+  role: developer
+  duration: 2020
+  url: "https://lvkhomyakova-speakit.netlify.app/"
+  description: Training project (demo): Single-page application with which you can listen to the pronunciation of English words and use the Google Web Speech API speech recognition technology to check the pronunciation.
+# English for kids
+- project: English for kids
+  role: developer
+  duration: 2020
+  url: "https://lvkhomyakova-english-for-kids.netlify.app/"
+  description: Training project (demo): Single-page application for learning English words by children.
+# Gem puzzle
+- project: Gem puzzle
+  role: developer
+  duration: 2020
+  url: "https://lvkhomyakova.github.io/gem-puzzle/"
+  description: Training project (demo): Сlassic tag game
+# Others
+  project: VirtualKeyboard
+  url: "https://lvkhomyakova.github.io/VirtualKeyboard/dist/"
+  project: Singolo
+  url: "https://lvkhomyakova.github.io/singolo/"
+  project: Anatomy
+  url: "https://github.com/LVKhomyakova/lvkhomyakova.github.io"
